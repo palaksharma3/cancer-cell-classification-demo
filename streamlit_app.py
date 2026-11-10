@@ -13,8 +13,8 @@ from model import (
     example_values, predict_measurements, train_model,
 )
 
-st.set_page_config(page_title="Breast Cell Classification | ML Demo", page_icon="🔬", layout="centered")
-st.title("Breast cell classification")
+st.set_page_config(page_title="Cancer Cell Classification | ML Demo", page_icon="🔬", layout="centered")
+st.title("Cancer cell classification")
 st.write("Explore a Gaussian Naive Bayes model using 30 numerical measurements of cell nuclei.")
 st.warning("Educational demo — not for medical diagnosis or treatment. Predictions can be wrong. Do not use this app to make healthcare decisions.")
 st.caption("Numerical features only · No photo or scan analysis · Public Wisconsin breast cancer dataset")
