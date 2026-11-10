@@ -1,6 +1,6 @@
-# Breast cell classification — educational ML demo
+# Cancer cell classification — educational ML demo
 
-**[Open the live demo](https://palak-breast-cell-demo.streamlit.app/)** · **[View the source](https://github.com/palaksharma3/breast-cell-classification-demo)**
+**[Open the live demo](https://cancer-cell-classification.streamlit.app/)** · **[View the source](https://github.com/palaksharma3/cancer-cell-classification-demo)**
 
 A publicly deployed Streamlit application built from the original Gaussian Naive Bayes project. Visitors can try two public dataset examples or enter all 30 numerical measurements, edit values, and run classification. **This is not an image detector.** It does not accept photographs, scans, or patient documents.
 
@@ -8,7 +8,7 @@ A publicly deployed Streamlit application built from the original Gaussian Naive
 
 ## Status
 
-**Deployed publicly on 4 November 2026:** [palak-breast-cell-demo.streamlit.app](https://palak-breast-cell-demo.streamlit.app/). The app was confirmed to load without sign-in in an independent public browser session. Source code is public at **[palaksharma3/breast-cell-classification-demo](https://github.com/palaksharma3/breast-cell-classification-demo)** on branch **`main`**. Local implementation and testing used **Python 3.12.16**. Nothing was posted to LinkedIn or a website. Use the public Streamlit URL when sharing; localhost remains accessible only on this computer.
+**Deployed publicly on 4 November 2026:** [palak-breast-cell-demo.streamlit.app](https://palak-breast-cell-demo.streamlit.app/). The app was confirmed to load without sign-in in an independent public browser session. Source code is public at **[palaksharma3/cancer-cell-classification-demo](https://github.com/palaksharma3/cancer-cell-classification-demo)** on branch **`main`**. Local implementation and testing used **Python 3.12.16**. Nothing was posted to LinkedIn or a website. Use the public Streamlit URL when sharing; localhost remains accessible only on this computer.
 
 ## Run the prepared app on this Windows computer
 
